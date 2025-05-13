@@ -1,0 +1,19 @@
+Q1. Exercise 1: Deploying a new domain controller on Server Core
+
+Scenario
+As a part of business restructuring, Contoso wants to deploy new domain controllers in remote sites with minimal engagement of IT in remote locations. You need to use DC deployment to deploy new domain controllers.
+
+The main tasks for this exercise are as follows:
+
+Deploy AD DS on a new Windows Server Core server.
+Manage AD DS objects with GUI tools and with Windows PowerShell.
+
+
+Q2.Exercise 2: Configuring Group Policy
+Scenario
+As a part of Group Policy implementation, you want to import custom administrative templates for Office apps and configure settings.
+
+The main tasks for this exercise are as follows:
+
+Create and edit GPO settings.
+Apply and verify settings on the client computer
