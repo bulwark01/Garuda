@@ -1,5 +1,7 @@
 Q1. Exercise 1: Deploying a new domain controller on Server Core
 
+yuhuuu this was edited after the upload
+
 Scenario
 As a part of business restructuring, Contoso wants to deploy new domain controllers in remote sites with minimal engagement of IT in remote locations. You need to use DC deployment to deploy new domain controllers.
 
